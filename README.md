@@ -115,3 +115,11 @@ Future improvements could include:
 2. Install dependencies:
    ```bash
    pip install transformers datasets torch scikit-learn imbalanced-learn matplotlib
+   ```
+3. Run the notebooks in order:
+
+Data_Preprocessing.ipynb
+
+Visualizations.ipynb
+
+4.Compare the results
