@@ -117,6 +117,19 @@ Future improvements could include:
    pip install transformers datasets torch scikit-learn imbalanced-learn matplotlib
    ```
 3. Run the notebooks in order:
- - Data_Preprocessing.ipynb
- - Visualizations.ipynb
+ - Feasibility&Prototype.ipynb
+ - Toxic_Comment_Model_Improvements.ipynb
 4. Compare the results
+
+---
+
+## Files in Repository
+
+| File                          | Description                                |
+|-------------------------------|--------------------------------------------|
+| `Feasibility&Prototype.ipynb`            |              |
+| `Toxic_Comment_Model_Improvements.ipynb`   |          |
+| `/Pictures` |    |
+
+
+---
