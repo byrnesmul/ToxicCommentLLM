@@ -117,9 +117,6 @@ Future improvements could include:
    pip install transformers datasets torch scikit-learn imbalanced-learn matplotlib
    ```
 3. Run the notebooks in order:
-
-Data_Preprocessing.ipynb
-
-Visualizations.ipynb
-
-4.Compare the results
+ - Data_Preprocessing.ipynb
+ - Visualizations.ipynb
+4. Compare the results
