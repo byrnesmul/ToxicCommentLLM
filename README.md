@@ -96,8 +96,8 @@ We first trained each model with a default threshold of **0.5** for all labels, 
 ![](Pictures/F1Comparison.png)
 
 ### ROC Curves
-![](Pictures/ROCCurveDi.png)
-![](Pictures/ROCCurveRo.png)
+![](Pictures/ROCCurvesDi.png)
+![](Pictures/ROCCurvesRo.png)
 
 ---
 
