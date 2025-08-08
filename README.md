@@ -4,6 +4,8 @@
 
 ## One Sentence Summary
 This project classifies online comments into six toxicity categories using two transformer-based models (DistilBERT and RoBERTa) with Hugging Face Transformers, oversampling, and threshold tuning.
+## Overview
+The goal of this project is to build a multi-label text classification model to detect toxic comments across six categories: toxic, severe toxic, obscene, threat, insult, and identity hate. Using a Kaggle dataset of over 150,000 comments, we trained and evaluated transformer-based models (DistilBERT and RoBERTa) for performance comparison. The best-performing model, RoBERTa, achieved an overall weighted F1-score of **0.89** after threshold tuning, showing strong capability in identifying multiple forms of toxic language. The project workflow included data cleaning, tokenization, handling class imbalance through oversampling, hyperparameter tuning, and visualizing results using classification reports, ROC curves, and bar plots.
 
 ---
 
