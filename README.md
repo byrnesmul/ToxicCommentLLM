@@ -125,11 +125,16 @@ Future improvements could include:
 
 ## Files in Repository
 
-| File                          | Description                                |
-|-------------------------------|--------------------------------------------|
-| `Feasibility&Prototype.ipynb`            |              |
-| `Toxic_Comment_Model_Improvements.ipynb`   |          |
-| `/Pictures` |    |
+| File                                    | Description                                           |
+|-----------------------------------------|-------------------------------------------------------|
+| `Feasibility&Prototype.ipynb`           | Initial feasibility study, data preprocessing, and prototype model training |
+| `Toxic_Comment_Model_Improvements.ipynb`| Second phase with model refinements, threshold tuning, and performance comparison |
+| `/Pictures`                             | Folder containing plots, figures, and visualizations  |
 
 
 ---
+
+## Software Setup
+
+```bash
+pip install tensorflow matplotlib scikit-learn
