@@ -111,7 +111,15 @@ Future improvements could include:
 - Ensemble methods combining both models
 
 ---
+## Future Work  
 
+- Increase the number of samples for underrepresented classes, especially *threat*, to address data imbalance and improve classification performance (currently ROC-AUC ≈ 0.55).  
+- Experiment with class-weighted loss functions or focal loss to give more importance to rare classes.  
+- Apply targeted data augmentation for text, such as back-translation or synonym replacement, to diversify training samples.  
+- Fine-tune with more advanced transformer models (e.g., DeBERTa, XLNet) to explore potential performance gains.  
+- Use explainability tools like LIME or SHAP to interpret model decisions and ensure fairness across labels.  
+- Evaluate on an external toxic comment dataset to assess model generalization.  
+---
 ## How to Reproduce Results
 
 1. Clone this repository
