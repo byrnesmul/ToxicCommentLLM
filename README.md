@@ -113,7 +113,7 @@ Future improvements could include:
 ---
 ## Future Work  
 
-- Increase the number of samples for underrepresented classes, especially *threat*, to address data imbalance and improve classification performance (currently ROC-AUC ≈ 0.55).  
+- Increase the number of samples for underrepresented classes, especially *threat*, to address data imbalance and improve classification performance.  
 - Experiment with class-weighted loss functions or focal loss to give more importance to rare classes.  
 - Apply targeted data augmentation for text, such as back-translation or synonym replacement, to diversify training samples.  
 - Fine-tune with more advanced transformer models (e.g., DeBERTa, XLNet) to explore potential performance gains.  
