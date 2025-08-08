@@ -95,6 +95,10 @@ We first trained each model with a default threshold of **0.5** for all labels, 
 ### Bar Plot: F1-score Comparison
 ![](Pictures/F1Comparison.png)
 
+### ROC Curves
+![](Pictures/ROCCurveDi.png)
+![](Pictures/ROCCurveRo.png)
+
 ---
 
 ## Conclusions
